@@ -1,7 +1,7 @@
 ### Introduction
 
-- 🔭 I’m currently working as a Front-End Lead at VASL  🧑🏻‍💻 
-- 🌱 I’m currently learning Ghostjs to become Full-Stack developer 🤞🏻
+- 🔭 I’m currently working as a Front-End Developer at VASL  🧑🏻‍💻 
+- 🌱 I’m currently learning Strapi to become Full-Stack developer 🤞🏻
 <!---
 - 😄 Pronouns: in a weird way: <br />
   ☝️ sa - pronounced as 'SA' in SATURDAY <br />
