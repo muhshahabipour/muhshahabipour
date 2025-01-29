@@ -1,7 +1,7 @@
 ### Introduction
 
-- 🔭 I’m currently working as a Front-End Developer  🧑🏻‍💻 
-- 🌱 I’m currently learning Strapi to become Full-Stack developer 🤞🏻
+- 🔭 I’m currently working as a Front-End and Full-Stack Developer  🧑🏻‍💻 
+
 <!---
 - 😄 Pronouns: in a weird way: <br />
   ☝️ sa - pronounced as 'SA' in SATURDAY <br />
