@@ -1,6 +1,6 @@
 ### Introduction
 
-- 🔭 I’m currently working as a Front-End and Full-Stack Developer  🧑🏻‍💻 
+- 🔭 I’m currently working as a Full-Stack Developer  🧑🏻‍💻 
 
 <!---
 - 😄 Pronouns: in a weird way: <br />
